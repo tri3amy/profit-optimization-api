@@ -64,7 +64,7 @@ The easiest and most reliable way to run this application is using Docker. Ensur
 
 **1. Clone this repository:**
 ```bash
-git clone [https://github.com/your_username/profit-optimization-advertising.git](https://github.com/your_username/profit-optimization-advertising.git)
+git clone [https://github.com/tri3amy/profit-optimization-advertising.git](https://github.com/tri3amy/profit-optimization-advertising.git)
 cd profit-optimization-advertising
 ```
 
